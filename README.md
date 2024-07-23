@@ -7,7 +7,8 @@ This package depends on [nicegui](https://nicegui.io/) and [kdl_parser_py](https
 pip3 install nicegui urdf_parser_py
 ```
 
-<img src="/docs/demo.webm" alt="demo image" width="50%"/>
+<!-- <img src="/docs/demo.webm" alt="demo image" width="50%"/> -->
+![demo video](/docs/demo.webm)
 
 ## Requirements
 
