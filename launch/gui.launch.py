@@ -10,7 +10,7 @@ def generate_launch_description():
         DeclareLaunchArgument(
             "ur_type",
             description="Type/series of used UR robot.",
-            choices=["ur5", "ur10"],
+            choices=["ur5", "ur10", "ur10e"],
         )
     )
 
